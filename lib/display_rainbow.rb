@@ -2,6 +2,8 @@
 
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-def display_rainbow
+def display_rainbow(colors)
   puts colors
 end
+
+display_rainbow(colors)
